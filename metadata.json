@@ -1,0 +1,5 @@
+{
+  "name": "Gemini ERP Dashboard",
+  "description": "A modern, AI-powered ERP dashboard concept built with React and Tailwind CSS. It features data visualization for key business metrics and an integrated AI assistant powered by the Gemini API to provide business insights.",
+  "requestFramePermissions": []
+}
